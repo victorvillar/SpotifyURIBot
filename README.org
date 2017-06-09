@@ -1,1 +1,2 @@
 * Spotify URI Info bot (@urispotibot)
+Inspired by @samgh96 (https://github.com/samgh96/spotiuribot)
